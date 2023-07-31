@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Google.Drive.Manager.V1</Title>
+    <Authors>Nargiz Soltanova</Authors>
+    <Product>Google.Drive.Manager</Product>
+    <PackageProjectUrl>https://github.com/NargizSoltanova/Google.Drive.Manager</PackageProjectUrl>
+    <PackageIcon>Marcus-Roberto-Google-Play-Google-Drive.512.png</PackageIcon>
+    <RepositoryUrl>https://github.com/NargizSoltanova/Google.Drive.Manager</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.61.0.3120" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Marcus-Roberto-Google-Play-Google-Drive.512.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

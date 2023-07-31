@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\bin\Debug\net6.0\GoogleDriveManager.deps.json
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\bin\Debug\net6.0\GoogleDriveManager.dll
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\bin\Debug\net6.0\GoogleDriveManager.pdb
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.dll
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\refint\GoogleDriveManager.dll
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\GoogleDriveManager.pdb
+C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\obj\Debug\net6.0\ref\GoogleDriveManager.dll

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GoogleDriveManager</id>
+    <version>1.0.0</version>
+    <title>Google.Drive.Manager.V1</title>
+    <authors>Nargiz Soltanova</authors>
+    <icon>Marcus-Roberto-Google-Play-Google-Drive.512.png</icon>
+    <projectUrl>https://github.com/NargizSoltanova/Google.Drive.Manager</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/NargizSoltanova/Google.Drive.Manager" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Google.Apis.Drive.v3" version="1.61.0.3120" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\bin\Debug\net6.0\GoogleDriveManager.dll" target="lib\net6.0\GoogleDriveManager.dll" />
+    <file src="C:\Users\User\OneDrive\Masaüstü\GoogleDriveManager\GoogleDriveManager\Marcus-Roberto-Google-Play-Google-Drive.512.png" target="\Marcus-Roberto-Google-Play-Google-Drive.512.png" />
+  </files>
+</package>
